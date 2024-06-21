@@ -26,8 +26,3 @@ runTest_WCJS2014withLR - allows us to generate Figure 8 of Shirhatti et al., 202
 % displayHarmonics - just plots a signal + harmonics as shown in Figure 4 of Krishnakumaran et al., 2022
 % eulerMethod - solver used for the differential equations
 % getGammaAndHarmonicProperties - computes peak gamma & harmonic amplitude and phase
-
-% Not used anymore
-% eNCEquation - E nullcline equation
-% iNCEquation - I nullcline equation
-% FHN - John Rinzel's code for reference
